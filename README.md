@@ -8,12 +8,13 @@ The idea for this community was sparked by the @usedispatch team along with a fe
 - https://twitter.com/viksit/status/1613698587501932546
 
 ## Goal
-The goal of Solarplex is to be a hacker news style community for solana (and ideally the broader crypto ecosystem). A community curated news and discussions site. This site will be built on the @usedispatch forums protocol.
+- The goal of Solarplex is to be a hacker news style community for solana (and ideally the broader crypto ecosystem). A community curated news and discussions site. This site will be built on the @usedispatch forums protocol.
+- A second goal is to be a central resource for solana community documentation and discussions. 
 
 
 ## Table of contents
 - [Solarplex Roadmap](what-is-solarplex.md)
-- [Solana resources](solana-resources-list.md)
+- [Content that is needed by the community](solana-resources-list.md)
 
 ## Alpha testers Telegram group
 - We're creating a telegram group for people to provide feedback. Please dm @viksit for access, or submit a PR to this file with your twitter username/tg.
