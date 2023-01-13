@@ -1,5 +1,25 @@
 # Solarplex
-An open, decentralized community for Solana builders.
+### Hackernews for Solana. An open decentralized forum for the community. 
+Powered by @usedispatch
+
+## Features
+### Log in with your wallet 
+- use one web3 identity
+- show off your pfp!
+
+### Karma points
+- an open karma system with support for pluggable rankings and computing scores
+- mechanisms to use a karma oracle for on-chain programs
+- build your own composable nfts with solarplex karma!
+
+## Ask Solarplex
+- a way to ask questions of the community and have threaded discussions
+
+## Show Solarplex
+- a way to show case what you've built and get community feedback
+
+
+# Resources and documentation
 
 ## What resources are missing on Solana?
 
@@ -34,5 +54,12 @@ An open, decentralized community for Solana builders.
 - off-chain crankers
 - non-custodial vs custodial staking.
 
+## Licenses and open source ethos
+- what license should I use?
+- differences between open source and source open?
+- explanation of licenses
+- why should I open source my code (or not)?
+- does open source mean unsafe / exploitable?
+- how would I make money with open source code?
 
 
