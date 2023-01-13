@@ -1,4 +1,4 @@
-# Welcome to the Solarplex.
+# Solarplex Manifesto
 __Hackernews for Solana. An open decentralized forum for the Solana community.__
 
 ## Genesis
@@ -14,3 +14,6 @@ The goal of Solarplex is to be a hacker news style community for solana (and ide
 ## Table of contents
 - [Solarplex Roadmap](what-is-solarplex.md)
 - [Solana resources](solana-resources-list.md)
+
+## Alpha testers Telegram group
+- We're creating a telegram group for people to provide feedback. Please dm @viksit for access, or submit a PR to this file with your twitter username/tg.
